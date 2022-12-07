@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @unknow00O00
+- 👋 Hi, I’m @unknow
 - 👀 I’m interested in pygame
 - 🌱 I’m currently learning python, pygame
 - 💞️ I’m looking to collaborate on nobody
